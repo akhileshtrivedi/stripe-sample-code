@@ -1,0 +1,4 @@
+com/stripe/sample/Server$CreatePaymentItem.class
+com/stripe/sample/Server$CreatePaymentResponse.class
+com/stripe/sample/Server$CreatePayment.class
+com/stripe/sample/Server.class
